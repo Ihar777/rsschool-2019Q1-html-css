@@ -1,1 +1,2 @@
-# rsschool-2019Q1-codeacademy
+Ihar Petrushenka
+HTML CSS Basics: https://www.codecademy.com/users/Ihar777/achievements
